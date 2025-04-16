@@ -1,2 +1,2 @@
-# clust-omics
-Assignment 6 for STATS 3DA3 01
+# STATS 3DA3 Assignment 6
+This is the repository for assignment 6.
